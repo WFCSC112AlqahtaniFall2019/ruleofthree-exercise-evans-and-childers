@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/laurenchilders/CLionProjects/ruleofthree-exercise-evans-and-childers/IntList.cpp
+iostream
+-
+IntList.h
+/Users/laurenchilders/CLionProjects/ruleofthree-exercise-evans-and-childers/IntList.h
+
+/Users/laurenchilders/CLionProjects/ruleofthree-exercise-evans-and-childers/IntList.h
+
+/Users/laurenchilders/CLionProjects/ruleofthree-exercise-evans-and-childers/main.cpp
+iostream
+-
+IntList.h
+/Users/laurenchilders/CLionProjects/ruleofthree-exercise-evans-and-childers/IntList.h
+
